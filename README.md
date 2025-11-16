@@ -1,11 +1,11 @@
-📸 Baumer VCXU.2-51C – Trigger Mode Setup Guide
+## 📸 Baumer VCXU.2-51C – Trigger Mode Setup Guide
 
 This repository provides a complete guide for enabling and using Hardware Trigger Mode on the Baumer VCXU.2-51C Global Shutter Camera.
 All steps—wiring, configuration, software setup, and testing—are also explained clearly in the included tutorial video.
 
-🎥 Video Tutorial
+## 🎥 Video Tutorial
 
-📌 Full step-by-step video guide is included in this repository.
+## 📌 Full step-by-step video guide is included in this repository.
 It explains:
 ✔ Wiring the trigger
 ✔ Configuring Line0
@@ -13,7 +13,7 @@ It explains:
 ✔ Testing capture
 ✔ Troubleshooting
 
-🔌 Trigger Wiring (Important)
+## 🔌 Trigger Wiring (Important)
 
 The VCXU camera uses an M8 I/O connector for digital trigger lines.
 
