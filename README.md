@@ -1,0 +1,1 @@
+# machine-vision-baumer-camera-trigger-setup-
