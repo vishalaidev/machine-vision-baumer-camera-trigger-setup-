@@ -26,3 +26,13 @@ This wire carries the incoming trigger pulse.
 This wire completes the trigger circuit.
 
 <img width="1024" height="1536" alt="ChatGPT Image Nov 16, 2025, 03_06_53 PM" src="https://github.com/user-attachments/assets/70a0bccc-aee7-4c74-abce-c4de4d98452c" />
+
+
+## instrction
+
+[Screencast from 15-11-25 03_33_06 PM IST.webm](https://github.com/user-attachments/assets/87b72fbf-0aa9-4f00-9adc-4fe489e19705)
+
+
+## contact: vishalaidev7426@gmail.com
+
+
